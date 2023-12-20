@@ -1,0 +1,112 @@
+[
+    {
+        "RunnerNo": 1,
+        "RunnerName": "TARA TUFF",
+        "ReturnWin": 34,
+        "Lay": "110.00",
+        "Stake": "3.00",
+        "BBr": 28.51,
+        "Profit": 2.851296043656191,
+        "Stake_Variable": 10,
+        "bettingStatus": "Open"
+    },
+    {
+        "RunnerNo": 2,
+        "RunnerName": "MASTER COMBATANT",
+        "ReturnWin": 23,
+        "Lay": "70.00",
+        "Stake": "3.15",
+        "BBr": 29.88,
+        "Profit": 2.987848463187987,
+        "Stake_Variable": 10,
+        "bettingStatus": "Open"
+    },
+    {
+        "RunnerNo": 3,
+        "RunnerName": "LOVE WHO",
+        "ReturnWin": 26,
+        "Lay": "80.00",
+        "Stake": "3.13",
+        "BBr": 29.71,
+        "Profit": 2.9706066291432194,
+        "Stake_Variable": 10,
+        "bettingStatus": "Open"
+    },
+    {
+        "RunnerNo": 4,
+        "RunnerName": "ONAWINGANDAPRAYER",
+        "ReturnWin": 6,
+        "Lay": "11.00",
+        "Stake": "4.57",
+        "BBr": 43.38,
+        "Profit": 4.337899543378995,
+        "Stake_Variable": 10,
+        "bettingStatus": "Open"
+    },
+    {
+        "RunnerNo": 5,
+        "RunnerName": "JUNGLE EYES",
+        "ReturnWin": 5,
+        "Lay": "8.80",
+        "Stake": "4.57",
+        "BBr": 43.43,
+        "Profit": 4.342857142857142,
+        "Stake_Variable": 10,
+        "bettingStatus": "Open"
+    },
+    {
+        "RunnerNo": 6,
+        "RunnerName": "THE GOLD STANDARD",
+        "ReturnWin": 2.8,
+        "Lay": "4.50",
+        "Stake": "4.04",
+        "BBr": 38.43,
+        "Profit": 3.842696629213485,
+        "Stake_Variable": 10,
+        "bettingStatus": "Open"
+    },
+    {
+        "RunnerNo": 7,
+        "RunnerName": "JUNGLE SPIDER",
+        "ReturnWin": 8.5,
+        "Lay": "17.50",
+        "Stake": "4.30",
+        "BBr": 40.83,
+        "Profit": 4.083094555873927,
+        "Stake_Variable": 10,
+        "bettingStatus": "Open"
+    },
+    {
+        "RunnerNo": 8,
+        "RunnerName": "CRITICAL ADVANTAGE",
+        "ReturnWin": 7,
+        "Lay": "13.50",
+        "Stake": "4.46",
+        "BBr": 42.38,
+        "Profit": 4.237918215613384,
+        "Stake_Variable": 10,
+        "bettingStatus": "Open"
+    },
+    {
+        "RunnerNo": 9,
+        "RunnerName": "ERATIGENA",
+        "ReturnWin": 5,
+        "Lay": "8.80",
+        "Stake": "4.57",
+        "BBr": 43.43,
+        "Profit": 4.342857142857142,
+        "Stake_Variable": 10,
+        "bettingStatus": "Open"
+    },
+    {
+        "RunnerNo": 10,
+        "RunnerName": "CROOKWELL EYES",
+        "ReturnWin": 34,
+        "Lay": "n/a",
+        "Stake": "n/a",
+        "BBr": 0,
+        "Profit": 0,
+        "Stake_Variable": 10,
+        "bettingStatus": "Open"
+    }
+]

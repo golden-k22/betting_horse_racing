@@ -1,0 +1,302 @@
+[
+    {
+        "VenueMnemonic": "BAN",
+        "Location": "NSW",
+        "MeetingName": "BANKSTOWN",
+        "RaceNo": 1,
+        "RaceType": "H",
+        "Distance": 2540,
+        "RaceStartingTime": "2022-06-13T02:43:00.000Z",
+        "RaceStartingTimeStr": "02:43 AM"
+    },
+    {
+        "VenueMnemonic": "WRG",
+        "Location": "VIC",
+        "MeetingName": "WARRAGUL",
+        "RaceNo": 1,
+        "RaceType": "H",
+        "Distance": 1790,
+        "RaceStartingTime": "2022-06-13T02:53:00.000Z",
+        "RaceStartingTimeStr": "02:53 AM"
+    },
+    {
+        "VenueMnemonic": "BAN",
+        "Location": "NSW",
+        "MeetingName": "BANKSTOWN",
+        "RaceNo": 2,
+        "RaceType": "H",
+        "Distance": 1740,
+        "RaceStartingTime": "2022-06-13T03:18:00.000Z",
+        "RaceStartingTimeStr": "03:18 AM"
+    },
+    {
+        "VenueMnemonic": "WRG",
+        "Location": "VIC",
+        "MeetingName": "WARRAGUL",
+        "RaceNo": 2,
+        "RaceType": "H",
+        "Distance": 1790,
+        "RaceStartingTime": "2022-06-13T03:28:00.000Z",
+        "RaceStartingTimeStr": "03:28 AM"
+    },
+    {
+        "VenueMnemonic": "BAN",
+        "Location": "NSW",
+        "MeetingName": "BANKSTOWN",
+        "RaceNo": 3,
+        "RaceType": "H",
+        "Distance": 1740,
+        "RaceStartingTime": "2022-06-13T03:53:00.000Z",
+        "RaceStartingTimeStr": "03:53 AM"
+    },
+    {
+        "VenueMnemonic": "WRG",
+        "Location": "VIC",
+        "MeetingName": "WARRAGUL",
+        "RaceNo": 3,
+        "RaceType": "H",
+        "Distance": 2210,
+        "RaceStartingTime": "2022-06-13T04:04:00.000Z",
+        "RaceStartingTimeStr": "04:04 AM"
+    },
+    {
+        "VenueMnemonic": "PJA",
+        "Location": "WA",
+        "MeetingName": "PINJARRA",
+        "RaceNo": 1,
+        "RaceType": "H",
+        "Distance": 2185,
+        "RaceStartingTime": "2022-06-13T04:13:00.000Z",
+        "RaceStartingTimeStr": "04:13 AM"
+    },
+    {
+        "VenueMnemonic": "BAN",
+        "Location": "NSW",
+        "MeetingName": "BANKSTOWN",
+        "RaceNo": 4,
+        "RaceType": "H",
+        "Distance": 1740,
+        "RaceStartingTime": "2022-06-13T04:28:00.000Z",
+        "RaceStartingTimeStr": "04:28 AM"
+    },
+    {
+        "VenueMnemonic": "WRG",
+        "Location": "VIC",
+        "MeetingName": "WARRAGUL",
+        "RaceNo": 4,
+        "RaceType": "H",
+        "Distance": 1790,
+        "RaceStartingTime": "2022-06-13T04:38:00.000Z",
+        "RaceStartingTimeStr": "04:38 AM"
+    },
+    {
+        "VenueMnemonic": "PJA",
+        "Location": "WA",
+        "MeetingName": "PINJARRA",
+        "RaceNo": 2,
+        "RaceType": "H",
+        "Distance": 2185,
+        "RaceStartingTime": "2022-06-13T04:50:00.000Z",
+        "RaceStartingTimeStr": "04:50 AM"
+    },
+    {
+        "VenueMnemonic": "BAN",
+        "Location": "NSW",
+        "MeetingName": "BANKSTOWN",
+        "RaceNo": 5,
+        "RaceType": "H",
+        "Distance": 1335,
+        "RaceStartingTime": "2022-06-13T05:03:00.000Z",
+        "RaceStartingTimeStr": "05:03 AM"
+    },
+    {
+        "VenueMnemonic": "WRG",
+        "Location": "VIC",
+        "MeetingName": "WARRAGUL",
+        "RaceNo": 5,
+        "RaceType": "H",
+        "Distance": 2210,
+        "RaceStartingTime": "2022-06-13T05:13:00.000Z",
+        "RaceStartingTimeStr": "05:13 AM"
+    },
+    {
+        "VenueMnemonic": "PJA",
+        "Location": "WA",
+        "MeetingName": "PINJARRA",
+        "RaceNo": 3,
+        "RaceType": "H",
+        "Distance": 1684,
+        "RaceStartingTime": "2022-06-13T05:23:00.000Z",
+        "RaceStartingTimeStr": "05:23 AM"
+    },
+    {
+        "VenueMnemonic": "BAN",
+        "Location": "NSW",
+        "MeetingName": "BANKSTOWN",
+        "RaceNo": 6,
+        "RaceType": "H",
+        "Distance": 2540,
+        "RaceStartingTime": "2022-06-13T05:38:00.000Z",
+        "RaceStartingTimeStr": "05:38 AM"
+    },
+    {
+        "VenueMnemonic": "WRG",
+        "Location": "VIC",
+        "MeetingName": "WARRAGUL",
+        "RaceNo": 6,
+        "RaceType": "H",
+        "Distance": 2210,
+        "RaceStartingTime": "2022-06-13T05:48:00.000Z",
+        "RaceStartingTimeStr": "05:48 AM"
+    },
+    {
+        "VenueMnemonic": "PJA",
+        "Location": "WA",
+        "MeetingName": "PINJARRA",
+        "RaceNo": 4,
+        "RaceType": "H",
+        "Distance": 2185,
+        "RaceStartingTime": "2022-06-13T05:58:00.000Z",
+        "RaceStartingTimeStr": "05:58 AM"
+    },
+    {
+        "VenueMnemonic": "BAN",
+        "Location": "NSW",
+        "MeetingName": "BANKSTOWN",
+        "RaceNo": 7,
+        "RaceType": "H",
+        "Distance": 2140,
+        "RaceStartingTime": "2022-06-13T06:13:00.000Z",
+        "RaceStartingTimeStr": "06:13 AM"
+    },
+    {
+        "VenueMnemonic": "WRG",
+        "Location": "VIC",
+        "MeetingName": "WARRAGUL",
+        "RaceNo": 7,
+        "RaceType": "H",
+        "Distance": 1790,
+        "RaceStartingTime": "2022-06-13T06:23:00.000Z",
+        "RaceStartingTimeStr": "06:23 AM"
+    },
+    {
+        "VenueMnemonic": "PJA",
+        "Location": "WA",
+        "MeetingName": "PINJARRA",
+        "RaceNo": 5,
+        "RaceType": "H",
+        "Distance": 2185,
+        "RaceStartingTime": "2022-06-13T06:36:00.000Z",
+        "RaceStartingTimeStr": "06:36 AM"
+    },
+    {
+        "VenueMnemonic": "PJA",
+        "Location": "WA",
+        "MeetingName": "PINJARRA",
+        "RaceNo": 6,
+        "RaceType": "H",
+        "Distance": 1684,
+        "RaceStartingTime": "2022-06-13T07:04:00.000Z",
+        "RaceStartingTimeStr": "07:04 AM"
+    },
+    {
+        "VenueMnemonic": "PJA",
+        "Location": "WA",
+        "MeetingName": "PINJARRA",
+        "RaceNo": 7,
+        "RaceType": "H",
+        "Distance": 2185,
+        "RaceStartingTime": "2022-06-13T07:29:00.000Z",
+        "RaceStartingTimeStr": "07:29 AM"
+    },
+    {
+        "VenueMnemonic": "PJA",
+        "Location": "WA",
+        "MeetingName": "PINJARRA",
+        "RaceNo": 8,
+        "RaceType": "H",
+        "Distance": 2116,
+        "RaceStartingTime": "2022-06-13T07:56:00.000Z",
+        "RaceStartingTimeStr": "07:56 AM"
+    },
+    {
+        "VenueMnemonic": "CNB",
+        "Location": "ACT",
+        "MeetingName": "CANBERRA",
+        "RaceNo": 1,
+        "RaceType": "H",
+        "Distance": 1770,
+        "RaceStartingTime": "2022-06-13T08:15:00.000Z",
+        "RaceStartingTimeStr": "08:15 AM"
+    },
+    {
+        "VenueMnemonic": "PJA",
+        "Location": "WA",
+        "MeetingName": "PINJARRA",
+        "RaceNo": 9,
+        "RaceType": "H",
+        "Distance": 2185,
+        "RaceStartingTime": "2022-06-13T08:25:00.000Z",
+        "RaceStartingTimeStr": "08:25 AM"
+    },
+    {
+        "VenueMnemonic": "CNB",
+        "Location": "ACT",
+        "MeetingName": "CANBERRA",
+        "RaceNo": 2,
+        "RaceType": "H",
+        "Distance": 1770,
+        "RaceStartingTime": "2022-06-13T08:47:00.000Z",
+        "RaceStartingTimeStr": "08:47 AM"
+    },
+    {
+        "VenueMnemonic": "CNB",
+        "Location": "ACT",
+        "MeetingName": "CANBERRA",
+        "RaceNo": 3,
+        "RaceType": "H",
+        "Distance": 1770,
+        "RaceStartingTime": "2022-06-13T09:21:00.000Z",
+        "RaceStartingTimeStr": "09:21 AM"
+    },
+    {
+        "VenueMnemonic": "CNB",
+        "Location": "ACT",
+        "MeetingName": "CANBERRA",
+        "RaceNo": 4,
+        "RaceType": "H",
+        "Distance": 1770,
+        "RaceStartingTime": "2022-06-13T09:49:00.000Z",
+        "RaceStartingTimeStr": "09:49 AM"
+    },
+    {
+        "VenueMnemonic": "CNB",
+        "Location": "ACT",
+        "MeetingName": "CANBERRA",
+        "RaceNo": 5,
+        "RaceType": "H",
+        "Distance": 1770,
+        "RaceStartingTime": "2022-06-13T10:17:00.000Z",
+        "RaceStartingTimeStr": "10:17 AM"
+    },
+    {
+        "VenueMnemonic": "CNB",
+        "Location": "ACT",
+        "MeetingName": "CANBERRA",
+        "RaceNo": 6,
+        "RaceType": "H",
+        "Distance": 2170,
+        "RaceStartingTime": "2022-06-13T10:45:00.000Z",
+        "RaceStartingTimeStr": "10:45 AM"
+    },
+    {
+        "VenueMnemonic": "CNB",
+        "Location": "ACT",
+        "MeetingName": "CANBERRA",
+        "RaceNo": 7,
+        "RaceType": "H",
+        "Distance": 1770,
+        "RaceStartingTime": "2022-06-13T11:13:00.000Z",
+        "RaceStartingTimeStr": "11:13 AM"
+    }
+]

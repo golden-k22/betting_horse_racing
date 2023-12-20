@@ -1,0 +1,472 @@
+[
+    {
+        "VenueMnemonic": "STR",
+        "Location": "SA",
+        "MeetingName": "STRATHALBYN",
+        "RaceNo": 1,
+        "RaceType": "R",
+        "Distance": 2050,
+        "RaceStartingTime": "2022-06-01T03:15:00.000Z",
+        "TimeDifference": "15h 47m 04s"
+    },
+    {
+        "VenueMnemonic": "STR",
+        "Location": "SA",
+        "MeetingName": "STRATHALBYN",
+        "RaceNo": 2,
+        "RaceType": "R",
+        "Distance": 1350,
+        "RaceStartingTime": "2022-06-01T03:50:00.000Z",
+        "TimeDifference": "16h 22m 04s"
+    },
+    {
+        "VenueMnemonic": "STR",
+        "Location": "SA",
+        "MeetingName": "STRATHALBYN",
+        "RaceNo": 3,
+        "RaceType": "R",
+        "Distance": 1200,
+        "RaceStartingTime": "2022-06-01T14:25:00.000Z",
+        "TimeDifference": "16h 57m 04s"
+    },
+    {
+        "VenueMnemonic": "STR",
+        "Location": "SA",
+        "MeetingName": "STRATHALBYN",
+        "RaceNo": 4,
+        "RaceType": "R",
+        "Distance": 1350,
+        "RaceStartingTime": "2022-06-01T05:00:00.000Z",
+        "TimeDifference": "17h 32m 04s"
+    },
+    {
+        "VenueMnemonic": "STR",
+        "Location": "SA",
+        "MeetingName": "STRATHALBYN",
+        "RaceNo": 5,
+        "RaceType": "R",
+        "Distance": 1100,
+        "RaceStartingTime": "2022-06-01T05:35:00.000Z",
+        "TimeDifference": "18h 07m 04s"
+    },
+    {
+        "VenueMnemonic": "STR",
+        "Location": "SA",
+        "MeetingName": "STRATHALBYN",
+        "RaceNo": 6,
+        "RaceType": "R",
+        "Distance": 1350,
+        "RaceStartingTime": "2022-06-01T06:10:00.000Z",
+        "TimeDifference": "18h 42m 04s"
+    },
+    {
+        "VenueMnemonic": "STR",
+        "Location": "SA",
+        "MeetingName": "STRATHALBYN",
+        "RaceNo": 7,
+        "RaceType": "R",
+        "Distance": 2050,
+        "RaceStartingTime": "2022-06-01T06:45:00.000Z",
+        "TimeDifference": "19h 17m 04s"
+    },
+    {
+        "VenueMnemonic": "SAN",
+        "Location": "VIC",
+        "MeetingName": "SANDOWN",
+        "RaceNo": 1,
+        "RaceType": "R",
+        "Distance": 1400,
+        "RaceStartingTime": "2022-06-01T01:50:00.000Z",
+        "TimeDifference": "14h 22m 04s"
+    },
+    {
+        "VenueMnemonic": "SAN",
+        "Location": "VIC",
+        "MeetingName": "SANDOWN",
+        "RaceNo": 2,
+        "RaceType": "R",
+        "Distance": 2400,
+        "RaceStartingTime": "2022-06-01T02:25:00.000Z",
+        "TimeDifference": "14h 57m 04s"
+    },
+    {
+        "VenueMnemonic": "SAN",
+        "Location": "VIC",
+        "MeetingName": "SANDOWN",
+        "RaceNo": 3,
+        "RaceType": "R",
+        "Distance": 2100,
+        "RaceStartingTime": "2022-06-01T03:00:00.000Z",
+        "TimeDifference": "15h 32m 04s"
+    },
+    {
+        "VenueMnemonic": "SAN",
+        "Location": "VIC",
+        "MeetingName": "SANDOWN",
+        "RaceNo": 4,
+        "RaceType": "R",
+        "Distance": 1200,
+        "RaceStartingTime": "2022-06-01T03:35:00.000Z",
+        "TimeDifference": "16h 07m 04s"
+    },
+    {
+        "VenueMnemonic": "SAN",
+        "Location": "VIC",
+        "MeetingName": "SANDOWN",
+        "RaceNo": 5,
+        "RaceType": "R",
+        "Distance": 1200,
+        "RaceStartingTime": "2022-06-01T04:10:00.000Z",
+        "TimeDifference": "16h 42m 04s"
+    },
+    {
+        "VenueMnemonic": "SAN",
+        "Location": "VIC",
+        "MeetingName": "SANDOWN",
+        "RaceNo": 6,
+        "RaceType": "R",
+        "Distance": 1600,
+        "RaceStartingTime": "2022-06-01T04:45:00.000Z",
+        "TimeDifference": "17h 17m 04s"
+    },
+    {
+        "VenueMnemonic": "SAN",
+        "Location": "VIC",
+        "MeetingName": "SANDOWN",
+        "RaceNo": 7,
+        "RaceType": "R",
+        "Distance": 1600,
+        "RaceStartingTime": "2022-06-01T05:20:00.000Z",
+        "TimeDifference": "17h 52m 04s"
+    },
+    {
+        "VenueMnemonic": "SAN",
+        "Location": "VIC",
+        "MeetingName": "SANDOWN",
+        "RaceNo": 8,
+        "RaceType": "R",
+        "Distance": 1300,
+        "RaceStartingTime": "2022-06-01T05:55:00.000Z",
+        "TimeDifference": "18h 27m 04s"
+    },
+    {
+        "VenueMnemonic": "SAN",
+        "Location": "VIC",
+        "MeetingName": "SANDOWN",
+        "RaceNo": 9,
+        "RaceType": "R",
+        "Distance": 1300,
+        "RaceStartingTime": "2022-06-01T06:30:00.000Z",
+        "TimeDifference": "19h 02m 04s"
+    },
+    {
+        "VenueMnemonic": "WFM",
+        "Location": "NSW",
+        "MeetingName": "WARWICK FARM",
+        "RaceNo": 1,
+        "RaceType": "R",
+        "Distance": 1200,
+        "RaceStartingTime": "2022-06-01T02:50:00.000Z",
+        "TimeDifference": "15h 22m 04s"
+    },
+    {
+        "VenueMnemonic": "WFM",
+        "Location": "NSW",
+        "MeetingName": "WARWICK FARM",
+        "RaceNo": 2,
+        "RaceType": "R",
+        "Distance": 1100,
+        "RaceStartingTime": "2022-06-01T03:25:00.000Z",
+        "TimeDifference": "15h 57m 04s"
+    },
+    {
+        "VenueMnemonic": "WFM",
+        "Location": "NSW",
+        "MeetingName": "WARWICK FARM",
+        "RaceNo": 3,
+        "RaceType": "R",
+        "Distance": 1400,
+        "RaceStartingTime": "2022-06-01T04:00:00.000Z",
+        "TimeDifference": "16h 32m 04s"
+    },
+    {
+        "VenueMnemonic": "WFM",
+        "Location": "NSW",
+        "MeetingName": "WARWICK FARM",
+        "RaceNo": 4,
+        "RaceType": "R",
+        "Distance": 1300,
+        "RaceStartingTime": "2022-06-01T04:35:00.000Z",
+        "TimeDifference": "17h 07m 04s"
+    },
+    {
+        "VenueMnemonic": "WFM",
+        "Location": "NSW",
+        "MeetingName": "WARWICK FARM",
+        "RaceNo": 5,
+        "RaceType": "R",
+        "Distance": 1400,
+        "RaceStartingTime": "2022-06-01T05:10:00.000Z",
+        "TimeDifference": "17h 42m 04s"
+    },
+    {
+        "VenueMnemonic": "WFM",
+        "Location": "NSW",
+        "MeetingName": "WARWICK FARM",
+        "RaceNo": 6,
+        "RaceType": "R",
+        "Distance": 1000,
+        "RaceStartingTime": "2022-06-01T05:45:00.000Z",
+        "TimeDifference": "18h 17m 04s"
+    },
+    {
+        "VenueMnemonic": "WFM",
+        "Location": "NSW",
+        "MeetingName": "WARWICK FARM",
+        "RaceNo": 7,
+        "RaceType": "R",
+        "Distance": 1600,
+        "RaceStartingTime": "2022-06-01T06:20:00.000Z",
+        "TimeDifference": "18h 52m 04s"
+    },
+    {
+        "VenueMnemonic": "DBN",
+        "Location": "QLD",
+        "MeetingName": "DOOMBEN",
+        "RaceNo": 1,
+        "RaceType": "R",
+        "Distance": 1050,
+        "RaceStartingTime": "2022-06-01T01:58:00.000Z",
+        "TimeDifference": "14h 30m 04s"
+    },
+    {
+        "VenueMnemonic": "DBN",
+        "Location": "QLD",
+        "MeetingName": "DOOMBEN",
+        "RaceNo": 2,
+        "RaceType": "R",
+        "Distance": 1200,
+        "RaceStartingTime": "2022-06-01T02:33:00.000Z",
+        "TimeDifference": "15h 05m 04s"
+    },
+    {
+        "VenueMnemonic": "DBN",
+        "Location": "QLD",
+        "MeetingName": "DOOMBEN",
+        "RaceNo": 3,
+        "RaceType": "R",
+        "Distance": 1200,
+        "RaceStartingTime": "2022-06-01T03:08:00.000Z",
+        "TimeDifference": "15h 40m 04s"
+    },
+    {
+        "VenueMnemonic": "DBN",
+        "Location": "QLD",
+        "MeetingName": "DOOMBEN",
+        "RaceNo": 4,
+        "RaceType": "R",
+        "Distance": 2040,
+        "RaceStartingTime": "2022-06-01T03:43:00.000Z",
+        "TimeDifference": "16h 15m 04s"
+    },
+    {
+        "VenueMnemonic": "DBN",
+        "Location": "QLD",
+        "MeetingName": "DOOMBEN",
+        "RaceNo": 5,
+        "RaceType": "R",
+        "Distance": 1640,
+        "RaceStartingTime": "2022-06-01T04:18:00.000Z",
+        "TimeDifference": "16h 50m 04s"
+    },
+    {
+        "VenueMnemonic": "DBN",
+        "Location": "QLD",
+        "MeetingName": "DOOMBEN",
+        "RaceNo": 6,
+        "RaceType": "R",
+        "Distance": 1350,
+        "RaceStartingTime": "2022-06-01T04:53:00.000Z",
+        "TimeDifference": "17h 25m 04s"
+    },
+    {
+        "VenueMnemonic": "DBN",
+        "Location": "QLD",
+        "MeetingName": "DOOMBEN",
+        "RaceNo": 7,
+        "RaceType": "R",
+        "Distance": 1200,
+        "RaceStartingTime": "2022-06-01T05:28:00.000Z",
+        "TimeDifference": "18h 00m 04s"
+    },
+    {
+        "VenueMnemonic": "DBN",
+        "Location": "QLD",
+        "MeetingName": "DOOMBEN",
+        "RaceNo": 8,
+        "RaceType": "R",
+        "Distance": 1200,
+        "RaceStartingTime": "2022-06-01T06:03:00.000Z",
+        "TimeDifference": "18h 35m 04s"
+    },
+    {
+        "VenueMnemonic": "DBN",
+        "Location": "QLD",
+        "MeetingName": "DOOMBEN",
+        "RaceNo": 9,
+        "RaceType": "R",
+        "Distance": 1640,
+        "RaceStartingTime": "2022-06-01T06:34:00.000Z",
+        "TimeDifference": "19h 06m 04s"
+    },
+    {
+        "VenueMnemonic": "BEL",
+        "Location": "WA",
+        "MeetingName": "BELMONT",
+        "RaceNo": 1,
+        "RaceType": "R",
+        "Distance": 1400,
+        "RaceStartingTime": "2022-06-01T04:39:00.000Z",
+        "TimeDifference": "17h 11m 04s"
+    },
+    {
+        "VenueMnemonic": "BEL",
+        "Location": "WA",
+        "MeetingName": "BELMONT",
+        "RaceNo": 2,
+        "RaceType": "R",
+        "Distance": 1400,
+        "RaceStartingTime": "2022-06-01T05:14:00.000Z",
+        "TimeDifference": "17h 46m 04s"
+    },
+    {
+        "VenueMnemonic": "BEL",
+        "Location": "WA",
+        "MeetingName": "BELMONT",
+        "RaceNo": 3,
+        "RaceType": "R",
+        "Distance": 1400,
+        "RaceStartingTime": "2022-06-01T05:49:00.000Z",
+        "TimeDifference": "18h 21m 04s"
+    },
+    {
+        "VenueMnemonic": "BEL",
+        "Location": "WA",
+        "MeetingName": "BELMONT",
+        "RaceNo": 4,
+        "RaceType": "R",
+        "Distance": 1300,
+        "RaceStartingTime": "2022-06-01T06:24:00.000Z",
+        "TimeDifference": "18h 56m 04s"
+    },
+    {
+        "VenueMnemonic": "BEL",
+        "Location": "WA",
+        "MeetingName": "BELMONT",
+        "RaceNo": 5,
+        "RaceType": "R",
+        "Distance": 2100,
+        "RaceStartingTime": "2022-06-01T07:00:00.000Z",
+        "TimeDifference": "19h 32m 04s"
+    },
+    {
+        "VenueMnemonic": "BEL",
+        "Location": "WA",
+        "MeetingName": "BELMONT",
+        "RaceNo": 6,
+        "RaceType": "R",
+        "Distance": 1000,
+        "RaceStartingTime": "2022-06-01T07:35:00.000Z",
+        "TimeDifference": "20h 07m 04s"
+    },
+    {
+        "VenueMnemonic": "BEL",
+        "Location": "WA",
+        "MeetingName": "BELMONT",
+        "RaceNo": 7,
+        "RaceType": "R",
+        "Distance": 1200,
+        "RaceStartingTime": "2022-06-01T08:10:00.000Z",
+        "TimeDifference": "20h 42m 04s"
+    },
+    {
+        "VenueMnemonic": "BEL",
+        "Location": "WA",
+        "MeetingName": "BELMONT",
+        "RaceNo": 8,
+        "RaceType": "R",
+        "Distance": 1200,
+        "RaceStartingTime": "2022-06-01T08:45:00.000Z",
+        "TimeDifference": "21h 17m 04s"
+    },
+    {
+        "VenueMnemonic": "CWR",
+        "Location": "NSW",
+        "MeetingName": "COWRA",
+        "RaceNo": 1,
+        "RaceType": "R",
+        "Distance": 1100,
+        "RaceStartingTime": "2022-06-01T03:04:00.000Z",
+        "TimeDifference": "15h 36m 04s"
+    },
+    {
+        "VenueMnemonic": "CWR",
+        "Location": "NSW",
+        "MeetingName": "COWRA",
+        "RaceNo": 2,
+        "RaceType": "R",
+        "Distance": 1375,
+        "RaceStartingTime": "2022-06-01T03:39:00.000Z",
+        "TimeDifference": "16h 11m 04s"
+    },
+    {
+        "VenueMnemonic": "CWR",
+        "Location": "NSW",
+        "MeetingName": "COWRA",
+        "RaceNo": 3,
+        "RaceType": "R",
+        "Distance": 1375,
+        "RaceStartingTime": "2022-06-01T04:14:00.000Z",
+        "TimeDifference": "16h 46m 04s"
+    },
+    {
+        "VenueMnemonic": "CWR",
+        "Location": "NSW",
+        "MeetingName": "COWRA",
+        "RaceNo": 4,
+        "RaceType": "R",
+        "Distance": 1100,
+        "RaceStartingTime": "2022-06-01T04:49:00.000Z",
+        "TimeDifference": "17h 21m 04s"
+    },
+    {
+        "VenueMnemonic": "CWR",
+        "Location": "NSW",
+        "MeetingName": "COWRA",
+        "RaceNo": 5,
+        "RaceType": "R",
+        "Distance": 1100,
+        "RaceStartingTime": "2022-06-01T05:24:00.000Z",
+        "TimeDifference": "17h 56m 04s"
+    },
+    {
+        "VenueMnemonic": "CWR",
+        "Location": "NSW",
+        "MeetingName": "COWRA",
+        "RaceNo": 6,
+        "RaceType": "R",
+        "Distance": 950,
+        "RaceStartingTime": "2022-06-01T05:59:00.000Z",
+        "TimeDifference": "18h 31m 04s"
+    },
+    {
+        "VenueMnemonic": "CWR",
+        "Location": "NSW",
+        "MeetingName": "COWRA",
+        "RaceNo": 7,
+        "RaceType": "R",
+        "Distance": 1375,
+        "RaceStartingTime": "2022-06-01T06:34:00.000Z",
+        "TimeDifference": "19h 06m 04s"
+    }
+]

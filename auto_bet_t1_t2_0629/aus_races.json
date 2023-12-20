@@ -1,0 +1,1042 @@
+[
+    {
+        "VenueMnemonic": "ABO",
+        "Location": "CAN",
+        "MeetingName": "ASSINIBOIA DOWNS",
+        "RaceNo": 1,
+        "RaceType": "R",
+        "Distance": 1207,
+        "RaceStartingTime": "2022-06-28T00:35:00.000Z",
+        "RaceStartingTimeStr": "12:35 AM"
+    },
+    {
+        "VenueMnemonic": "ABO",
+        "Location": "CAN",
+        "MeetingName": "ASSINIBOIA DOWNS",
+        "RaceNo": 2,
+        "RaceType": "R",
+        "Distance": 1106,
+        "RaceStartingTime": "2022-06-28T01:05:00.000Z",
+        "RaceStartingTimeStr": "01:05 AM"
+    },
+    {
+        "VenueMnemonic": "ABO",
+        "Location": "CAN",
+        "MeetingName": "ASSINIBOIA DOWNS",
+        "RaceNo": 3,
+        "RaceType": "R",
+        "Distance": 1207,
+        "RaceStartingTime": "2022-06-28T01:35:00.000Z",
+        "RaceStartingTimeStr": "01:35 AM"
+    },
+    {
+        "VenueMnemonic": "TRE",
+        "Location": "NSW",
+        "MeetingName": "TAREE",
+        "RaceNo": 1,
+        "RaceType": "R",
+        "Distance": 1614,
+        "RaceStartingTime": "2022-06-28T01:40:00.000Z",
+        "RaceStartingTimeStr": "01:40 AM"
+    },
+    {
+        "VenueMnemonic": "ABO",
+        "Location": "CAN",
+        "MeetingName": "ASSINIBOIA DOWNS",
+        "RaceNo": 4,
+        "RaceType": "R",
+        "Distance": 1207,
+        "RaceStartingTime": "2022-06-28T02:05:00.000Z",
+        "RaceStartingTimeStr": "02:05 AM"
+    },
+    {
+        "VenueMnemonic": "TRE",
+        "Location": "NSW",
+        "MeetingName": "TAREE",
+        "RaceNo": 2,
+        "RaceType": "R",
+        "Distance": 1614,
+        "RaceStartingTime": "2022-06-28T02:15:00.000Z",
+        "RaceStartingTimeStr": "02:15 AM"
+    },
+    {
+        "VenueMnemonic": "TWN",
+        "Location": "QLD",
+        "MeetingName": "TOWNSVILLE",
+        "RaceNo": 1,
+        "RaceType": "R",
+        "Distance": 1200,
+        "RaceStartingTime": "2022-06-28T02:35:00.000Z",
+        "RaceStartingTimeStr": "02:35 AM"
+    },
+    {
+        "VenueMnemonic": "ABO",
+        "Location": "CAN",
+        "MeetingName": "ASSINIBOIA DOWNS",
+        "RaceNo": 5,
+        "RaceType": "R",
+        "Distance": 1207,
+        "RaceStartingTime": "2022-06-28T02:35:00.000Z",
+        "RaceStartingTimeStr": "02:35 AM"
+    },
+    {
+        "VenueMnemonic": "TRE",
+        "Location": "NSW",
+        "MeetingName": "TAREE",
+        "RaceNo": 3,
+        "RaceType": "R",
+        "Distance": 1007,
+        "RaceStartingTime": "2022-06-28T02:50:00.000Z",
+        "RaceStartingTimeStr": "02:50 AM"
+    },
+    {
+        "VenueMnemonic": "BAL",
+        "Location": "VIC",
+        "MeetingName": "BALLARAT",
+        "RaceNo": 1,
+        "RaceType": "R",
+        "Distance": 1000,
+        "RaceStartingTime": "2022-06-28T03:00:00.000Z",
+        "RaceStartingTimeStr": "03:00 AM"
+    },
+    {
+        "VenueMnemonic": "ABO",
+        "Location": "CAN",
+        "MeetingName": "ASSINIBOIA DOWNS",
+        "RaceNo": 6,
+        "RaceType": "R",
+        "Distance": 1106,
+        "RaceStartingTime": "2022-06-28T03:05:00.000Z",
+        "RaceStartingTimeStr": "03:05 AM"
+    },
+    {
+        "VenueMnemonic": "TWN",
+        "Location": "QLD",
+        "MeetingName": "TOWNSVILLE",
+        "RaceNo": 2,
+        "RaceType": "R",
+        "Distance": 1000,
+        "RaceStartingTime": "2022-06-28T03:10:00.000Z",
+        "RaceStartingTimeStr": "03:10 AM"
+    },
+    {
+        "VenueMnemonic": "TRE",
+        "Location": "NSW",
+        "MeetingName": "TAREE",
+        "RaceNo": 4,
+        "RaceType": "R",
+        "Distance": 1257,
+        "RaceStartingTime": "2022-06-28T03:25:00.000Z",
+        "RaceStartingTimeStr": "03:25 AM"
+    },
+    {
+        "VenueMnemonic": "BAL",
+        "Location": "VIC",
+        "MeetingName": "BALLARAT",
+        "RaceNo": 2,
+        "RaceType": "R",
+        "Distance": 1100,
+        "RaceStartingTime": "2022-06-28T03:30:00.000Z",
+        "RaceStartingTimeStr": "03:30 AM"
+    },
+    {
+        "VenueMnemonic": "ABO",
+        "Location": "CAN",
+        "MeetingName": "ASSINIBOIA DOWNS",
+        "RaceNo": 7,
+        "RaceType": "R",
+        "Distance": 1106,
+        "RaceStartingTime": "2022-06-28T03:35:00.000Z",
+        "RaceStartingTimeStr": "03:35 AM"
+    },
+    {
+        "VenueMnemonic": "TWN",
+        "Location": "QLD",
+        "MeetingName": "TOWNSVILLE",
+        "RaceNo": 3,
+        "RaceType": "R",
+        "Distance": 1900,
+        "RaceStartingTime": "2022-06-28T03:45:00.000Z",
+        "RaceStartingTimeStr": "03:45 AM"
+    },
+    {
+        "VenueMnemonic": "BAL",
+        "Location": "VIC",
+        "MeetingName": "BALLARAT",
+        "RaceNo": 3,
+        "RaceType": "R",
+        "Distance": 1200,
+        "RaceStartingTime": "2022-06-28T04:00:00.000Z",
+        "RaceStartingTimeStr": "04:00 AM"
+    },
+    {
+        "VenueMnemonic": "TRE",
+        "Location": "NSW",
+        "MeetingName": "TAREE",
+        "RaceNo": 5,
+        "RaceType": "R",
+        "Distance": 1257,
+        "RaceStartingTime": "2022-06-28T04:05:00.000Z",
+        "RaceStartingTimeStr": "04:05 AM"
+    },
+    {
+        "VenueMnemonic": "TWN",
+        "Location": "QLD",
+        "MeetingName": "TOWNSVILLE",
+        "RaceNo": 4,
+        "RaceType": "R",
+        "Distance": 1000,
+        "RaceStartingTime": "2022-06-28T04:20:00.000Z",
+        "RaceStartingTimeStr": "04:20 AM"
+    },
+    {
+        "VenueMnemonic": "BAL",
+        "Location": "VIC",
+        "MeetingName": "BALLARAT",
+        "RaceNo": 4,
+        "RaceType": "R",
+        "Distance": 2100,
+        "RaceStartingTime": "2022-06-28T04:30:00.000Z",
+        "RaceStartingTimeStr": "04:30 AM"
+    },
+    {
+        "VenueMnemonic": "TRE",
+        "Location": "NSW",
+        "MeetingName": "TAREE",
+        "RaceNo": 6,
+        "RaceType": "R",
+        "Distance": 1257,
+        "RaceStartingTime": "2022-06-28T04:40:00.000Z",
+        "RaceStartingTimeStr": "04:40 AM"
+    },
+    {
+        "VenueMnemonic": "TWN",
+        "Location": "QLD",
+        "MeetingName": "TOWNSVILLE",
+        "RaceNo": 5,
+        "RaceType": "R",
+        "Distance": 1000,
+        "RaceStartingTime": "2022-06-28T04:55:00.000Z",
+        "RaceStartingTimeStr": "04:55 AM"
+    },
+    {
+        "VenueMnemonic": "BAL",
+        "Location": "VIC",
+        "MeetingName": "BALLARAT",
+        "RaceNo": 5,
+        "RaceType": "R",
+        "Distance": 2100,
+        "RaceStartingTime": "2022-06-28T05:00:00.000Z",
+        "RaceStartingTimeStr": "05:00 AM"
+    },
+    {
+        "VenueMnemonic": "TRE",
+        "Location": "NSW",
+        "MeetingName": "TAREE",
+        "RaceNo": 7,
+        "RaceType": "R",
+        "Distance": 1007,
+        "RaceStartingTime": "2022-06-28T05:15:00.000Z",
+        "RaceStartingTimeStr": "05:15 AM"
+    },
+    {
+        "VenueMnemonic": "BAL",
+        "Location": "VIC",
+        "MeetingName": "BALLARAT",
+        "RaceNo": 6,
+        "RaceType": "R",
+        "Distance": 1500,
+        "RaceStartingTime": "2022-06-28T05:30:00.000Z",
+        "RaceStartingTimeStr": "05:30 AM"
+    },
+    {
+        "VenueMnemonic": "TCY",
+        "Location": "JPN",
+        "MeetingName": "TOKYO CITY KEIBA",
+        "RaceNo": 1,
+        "RaceType": "R",
+        "Distance": 1600,
+        "RaceStartingTime": "2022-06-28T05:30:00.000Z",
+        "RaceStartingTimeStr": "05:30 AM"
+    },
+    {
+        "VenueMnemonic": "TWN",
+        "Location": "QLD",
+        "MeetingName": "TOWNSVILLE",
+        "RaceNo": 6,
+        "RaceType": "R",
+        "Distance": 1000,
+        "RaceStartingTime": "2022-06-28T05:35:00.000Z",
+        "RaceStartingTimeStr": "05:35 AM"
+    },
+    {
+        "VenueMnemonic": "TRE",
+        "Location": "NSW",
+        "MeetingName": "TAREE",
+        "RaceNo": 8,
+        "RaceType": "R",
+        "Distance": 1412,
+        "RaceStartingTime": "2022-06-28T05:55:00.000Z",
+        "RaceStartingTimeStr": "05:55 AM"
+    },
+    {
+        "VenueMnemonic": "BAL",
+        "Location": "VIC",
+        "MeetingName": "BALLARAT",
+        "RaceNo": 7,
+        "RaceType": "R",
+        "Distance": 1200,
+        "RaceStartingTime": "2022-06-28T06:00:00.000Z",
+        "RaceStartingTimeStr": "06:00 AM"
+    },
+    {
+        "VenueMnemonic": "TCY",
+        "Location": "JPN",
+        "MeetingName": "TOKYO CITY KEIBA",
+        "RaceNo": 2,
+        "RaceType": "R",
+        "Distance": 1200,
+        "RaceStartingTime": "2022-06-28T06:00:00.000Z",
+        "RaceStartingTimeStr": "06:00 AM"
+    },
+    {
+        "VenueMnemonic": "TWN",
+        "Location": "QLD",
+        "MeetingName": "TOWNSVILLE",
+        "RaceNo": 7,
+        "RaceType": "R",
+        "Distance": 1400,
+        "RaceStartingTime": "2022-06-28T06:10:00.000Z",
+        "RaceStartingTimeStr": "06:10 AM"
+    },
+    {
+        "VenueMnemonic": "BAL",
+        "Location": "VIC",
+        "MeetingName": "BALLARAT",
+        "RaceNo": 8,
+        "RaceType": "R",
+        "Distance": 1200,
+        "RaceStartingTime": "2022-06-28T06:30:00.000Z",
+        "RaceStartingTimeStr": "06:30 AM"
+    },
+    {
+        "VenueMnemonic": "TCY",
+        "Location": "JPN",
+        "MeetingName": "TOKYO CITY KEIBA",
+        "RaceNo": 3,
+        "RaceType": "R",
+        "Distance": 1400,
+        "RaceStartingTime": "2022-06-28T06:30:00.000Z",
+        "RaceStartingTimeStr": "06:30 AM"
+    },
+    {
+        "VenueMnemonic": "TRE",
+        "Location": "NSW",
+        "MeetingName": "TAREE",
+        "RaceNo": 9,
+        "RaceType": "R",
+        "Distance": 1412,
+        "RaceStartingTime": "2022-06-28T06:35:00.000Z",
+        "RaceStartingTimeStr": "06:35 AM"
+    },
+    {
+        "VenueMnemonic": "TWN",
+        "Location": "QLD",
+        "MeetingName": "TOWNSVILLE",
+        "RaceNo": 8,
+        "RaceType": "R",
+        "Distance": 1200,
+        "RaceStartingTime": "2022-06-28T06:50:00.000Z",
+        "RaceStartingTimeStr": "06:50 AM"
+    },
+    {
+        "VenueMnemonic": "TCY",
+        "Location": "JPN",
+        "MeetingName": "TOKYO CITY KEIBA",
+        "RaceNo": 4,
+        "RaceType": "R",
+        "Distance": 1200,
+        "RaceStartingTime": "2022-06-28T07:00:00.000Z",
+        "RaceStartingTimeStr": "07:00 AM"
+    },
+    {
+        "VenueMnemonic": "TCY",
+        "Location": "JPN",
+        "MeetingName": "TOKYO CITY KEIBA",
+        "RaceNo": 5,
+        "RaceType": "R",
+        "Distance": 1600,
+        "RaceStartingTime": "2022-06-28T07:35:00.000Z",
+        "RaceStartingTimeStr": "07:35 AM"
+    },
+    {
+        "VenueMnemonic": "TCY",
+        "Location": "JPN",
+        "MeetingName": "TOKYO CITY KEIBA",
+        "RaceNo": 6,
+        "RaceType": "R",
+        "Distance": 1200,
+        "RaceStartingTime": "2022-06-28T08:10:00.000Z",
+        "RaceStartingTimeStr": "08:10 AM"
+    },
+    {
+        "VenueMnemonic": "TCY",
+        "Location": "JPN",
+        "MeetingName": "TOKYO CITY KEIBA",
+        "RaceNo": 7,
+        "RaceType": "R",
+        "Distance": 1600,
+        "RaceStartingTime": "2022-06-28T08:45:00.000Z",
+        "RaceStartingTimeStr": "08:45 AM"
+    },
+    {
+        "VenueMnemonic": "TCY",
+        "Location": "JPN",
+        "MeetingName": "TOKYO CITY KEIBA",
+        "RaceNo": 8,
+        "RaceType": "R",
+        "Distance": 1200,
+        "RaceStartingTime": "2022-06-28T09:20:00.000Z",
+        "RaceStartingTimeStr": "09:20 AM"
+    },
+    {
+        "VenueMnemonic": "TCY",
+        "Location": "JPN",
+        "MeetingName": "TOKYO CITY KEIBA",
+        "RaceNo": 9,
+        "RaceType": "R",
+        "Distance": 1800,
+        "RaceStartingTime": "2022-06-28T09:55:00.000Z",
+        "RaceStartingTimeStr": "09:55 AM"
+    },
+    {
+        "VenueMnemonic": "AUT",
+        "Location": "FRA",
+        "MeetingName": "AUTEUIL",
+        "RaceNo": 1,
+        "RaceType": "R",
+        "Distance": 3500,
+        "RaceStartingTime": "2022-06-28T09:55:00.000Z",
+        "RaceStartingTimeStr": "09:55 AM"
+    },
+    {
+        "VenueMnemonic": "VAA",
+        "Location": "ZAF",
+        "MeetingName": "VAAL",
+        "RaceNo": 1,
+        "RaceType": "R",
+        "Distance": 1400,
+        "RaceStartingTime": "2022-06-28T10:25:00.000Z",
+        "RaceStartingTimeStr": "10:25 AM"
+    },
+    {
+        "VenueMnemonic": "TCY",
+        "Location": "JPN",
+        "MeetingName": "TOKYO CITY KEIBA",
+        "RaceNo": 10,
+        "RaceType": "R",
+        "Distance": 1800,
+        "RaceStartingTime": "2022-06-28T10:30:00.000Z",
+        "RaceStartingTimeStr": "10:30 AM"
+    },
+    {
+        "VenueMnemonic": "AUT",
+        "Location": "FRA",
+        "MeetingName": "AUTEUIL",
+        "RaceNo": 2,
+        "RaceType": "R",
+        "Distance": 3500,
+        "RaceStartingTime": "2022-06-28T10:30:00.000Z",
+        "RaceStartingTimeStr": "10:30 AM"
+    },
+    {
+        "VenueMnemonic": "VAA",
+        "Location": "ZAF",
+        "MeetingName": "VAAL",
+        "RaceNo": 2,
+        "RaceType": "R",
+        "Distance": 1400,
+        "RaceStartingTime": "2022-06-28T11:00:00.000Z",
+        "RaceStartingTimeStr": "11:00 AM"
+    },
+    {
+        "VenueMnemonic": "AUT",
+        "Location": "FRA",
+        "MeetingName": "AUTEUIL",
+        "RaceNo": 3,
+        "RaceType": "R",
+        "Distance": 4400,
+        "RaceStartingTime": "2022-06-28T11:05:00.000Z",
+        "RaceStartingTimeStr": "11:05 AM"
+    },
+    {
+        "VenueMnemonic": "TCY",
+        "Location": "JPN",
+        "MeetingName": "TOKYO CITY KEIBA",
+        "RaceNo": 11,
+        "RaceType": "R",
+        "Distance": 1200,
+        "RaceStartingTime": "2022-06-28T11:10:00.000Z",
+        "RaceStartingTimeStr": "11:10 AM"
+    },
+    {
+        "VenueMnemonic": "HAP",
+        "Location": "HKG",
+        "MeetingName": "HAPPY VALLEY",
+        "RaceNo": 1,
+        "RaceType": "R",
+        "Distance": 1800,
+        "RaceStartingTime": "2022-06-28T11:15:00.000Z",
+        "RaceStartingTimeStr": "11:15 AM"
+    },
+    {
+        "VenueMnemonic": "VAA",
+        "Location": "ZAF",
+        "MeetingName": "VAAL",
+        "RaceNo": 3,
+        "RaceType": "R",
+        "Distance": 1600,
+        "RaceStartingTime": "2022-06-28T11:30:00.000Z",
+        "RaceStartingTimeStr": "11:30 AM"
+    },
+    {
+        "VenueMnemonic": "HAP",
+        "Location": "HKG",
+        "MeetingName": "HAPPY VALLEY",
+        "RaceNo": 2,
+        "RaceType": "R",
+        "Distance": 1650,
+        "RaceStartingTime": "2022-06-28T11:45:00.000Z",
+        "RaceStartingTimeStr": "11:45 AM"
+    },
+    {
+        "VenueMnemonic": "TCY",
+        "Location": "JPN",
+        "MeetingName": "TOKYO CITY KEIBA",
+        "RaceNo": 12,
+        "RaceType": "R",
+        "Distance": 1600,
+        "RaceStartingTime": "2022-06-28T11:50:00.000Z",
+        "RaceStartingTimeStr": "11:50 AM"
+    },
+    {
+        "VenueMnemonic": "AUT",
+        "Location": "FRA",
+        "MeetingName": "AUTEUIL",
+        "RaceNo": 4,
+        "RaceType": "R",
+        "Distance": 3900,
+        "RaceStartingTime": "2022-06-28T11:50:00.000Z",
+        "RaceStartingTimeStr": "11:50 AM"
+    },
+    {
+        "VenueMnemonic": "VAA",
+        "Location": "ZAF",
+        "MeetingName": "VAAL",
+        "RaceNo": 4,
+        "RaceType": "R",
+        "Distance": 1600,
+        "RaceStartingTime": "2022-06-28T12:00:00.000Z",
+        "RaceStartingTimeStr": "12:00 PM"
+    },
+    {
+        "VenueMnemonic": "HAP",
+        "Location": "HKG",
+        "MeetingName": "HAPPY VALLEY",
+        "RaceNo": 3,
+        "RaceType": "R",
+        "Distance": 1200,
+        "RaceStartingTime": "2022-06-28T12:15:00.000Z",
+        "RaceStartingTimeStr": "12:15 PM"
+    },
+    {
+        "VenueMnemonic": "HPR",
+        "Location": "GBR",
+        "MeetingName": "HAMILTON PARK",
+        "RaceNo": 1,
+        "RaceType": "R",
+        "Distance": 1206,
+        "RaceStartingTime": "2022-06-28T12:15:00.000Z",
+        "RaceStartingTimeStr": "12:15 PM"
+    },
+    {
+        "VenueMnemonic": "AUT",
+        "Location": "FRA",
+        "MeetingName": "AUTEUIL",
+        "RaceNo": 5,
+        "RaceType": "R",
+        "Distance": 3900,
+        "RaceStartingTime": "2022-06-28T12:25:00.000Z",
+        "RaceStartingTimeStr": "12:25 PM"
+    },
+    {
+        "VenueMnemonic": "BRI",
+        "Location": "GBR",
+        "MeetingName": "BRIGHTON",
+        "RaceNo": 1,
+        "RaceType": "R",
+        "Distance": 1060,
+        "RaceStartingTime": "2022-06-28T12:30:00.000Z",
+        "RaceStartingTimeStr": "12:30 PM"
+    },
+    {
+        "VenueMnemonic": "VAA",
+        "Location": "ZAF",
+        "MeetingName": "VAAL",
+        "RaceNo": 5,
+        "RaceType": "R",
+        "Distance": 1600,
+        "RaceStartingTime": "2022-06-28T12:40:00.000Z",
+        "RaceStartingTimeStr": "12:40 PM"
+    },
+    {
+        "VenueMnemonic": "HAP",
+        "Location": "HKG",
+        "MeetingName": "HAPPY VALLEY",
+        "RaceNo": 4,
+        "RaceType": "R",
+        "Distance": 1200,
+        "RaceStartingTime": "2022-06-28T12:45:00.000Z",
+        "RaceStartingTimeStr": "12:45 PM"
+    },
+    {
+        "VenueMnemonic": "HPR",
+        "Location": "GBR",
+        "MeetingName": "HAMILTON PARK",
+        "RaceNo": 2,
+        "RaceType": "R",
+        "Distance": 1668,
+        "RaceStartingTime": "2022-06-28T12:45:00.000Z",
+        "RaceStartingTimeStr": "12:45 PM"
+    },
+    {
+        "VenueMnemonic": "BRI",
+        "Location": "GBR",
+        "MeetingName": "BRIGHTON",
+        "RaceNo": 2,
+        "RaceType": "R",
+        "Distance": 1616,
+        "RaceStartingTime": "2022-06-28T13:00:00.000Z",
+        "RaceStartingTimeStr": "01:00 PM"
+    },
+    {
+        "VenueMnemonic": "AUT",
+        "Location": "FRA",
+        "MeetingName": "AUTEUIL",
+        "RaceNo": 6,
+        "RaceType": "R",
+        "Distance": 3500,
+        "RaceStartingTime": "2022-06-28T13:00:00.000Z",
+        "RaceStartingTimeStr": "01:00 PM"
+    },
+    {
+        "VenueMnemonic": "HAP",
+        "Location": "HKG",
+        "MeetingName": "HAPPY VALLEY",
+        "RaceNo": 5,
+        "RaceType": "R",
+        "Distance": 1650,
+        "RaceStartingTime": "2022-06-28T13:15:00.000Z",
+        "RaceStartingTimeStr": "01:15 PM"
+    },
+    {
+        "VenueMnemonic": "HPR",
+        "Location": "GBR",
+        "MeetingName": "HAMILTON PARK",
+        "RaceNo": 3,
+        "RaceType": "R",
+        "Distance": 1007,
+        "RaceStartingTime": "2022-06-28T13:15:00.000Z",
+        "RaceStartingTimeStr": "01:15 PM"
+    },
+    {
+        "VenueMnemonic": "VAA",
+        "Location": "ZAF",
+        "MeetingName": "VAAL",
+        "RaceNo": 6,
+        "RaceType": "R",
+        "Distance": 1100,
+        "RaceStartingTime": "2022-06-28T13:20:00.000Z",
+        "RaceStartingTimeStr": "01:20 PM"
+    },
+    {
+        "VenueMnemonic": "BRI",
+        "Location": "GBR",
+        "MeetingName": "BRIGHTON",
+        "RaceNo": 3,
+        "RaceType": "R",
+        "Distance": 2007,
+        "RaceStartingTime": "2022-06-28T13:30:00.000Z",
+        "RaceStartingTimeStr": "01:30 PM"
+    },
+    {
+        "VenueMnemonic": "AUT",
+        "Location": "FRA",
+        "MeetingName": "AUTEUIL",
+        "RaceNo": 7,
+        "RaceType": "R",
+        "Distance": 3900,
+        "RaceStartingTime": "2022-06-28T13:35:00.000Z",
+        "RaceStartingTimeStr": "01:35 PM"
+    },
+    {
+        "VenueMnemonic": "HAP",
+        "Location": "HKG",
+        "MeetingName": "HAPPY VALLEY",
+        "RaceNo": 6,
+        "RaceType": "R",
+        "Distance": 1200,
+        "RaceStartingTime": "2022-06-28T13:45:00.000Z",
+        "RaceStartingTimeStr": "01:45 PM"
+    },
+    {
+        "VenueMnemonic": "HPR",
+        "Location": "GBR",
+        "MeetingName": "HAMILTON PARK",
+        "RaceNo": 4,
+        "RaceType": "R",
+        "Distance": 1668,
+        "RaceStartingTime": "2022-06-28T13:45:00.000Z",
+        "RaceStartingTimeStr": "01:45 PM"
+    },
+    {
+        "VenueMnemonic": "VAA",
+        "Location": "ZAF",
+        "MeetingName": "VAAL",
+        "RaceNo": 7,
+        "RaceType": "R",
+        "Distance": 1200,
+        "RaceStartingTime": "2022-06-28T13:55:00.000Z",
+        "RaceStartingTimeStr": "01:55 PM"
+    },
+    {
+        "VenueMnemonic": "BRI",
+        "Location": "GBR",
+        "MeetingName": "BRIGHTON",
+        "RaceNo": 4,
+        "RaceType": "R",
+        "Distance": 2007,
+        "RaceStartingTime": "2022-06-28T14:00:00.000Z",
+        "RaceStartingTimeStr": "02:00 PM"
+    },
+    {
+        "VenueMnemonic": "AUT",
+        "Location": "FRA",
+        "MeetingName": "AUTEUIL",
+        "RaceNo": 8,
+        "RaceType": "R",
+        "Distance": 3600,
+        "RaceStartingTime": "2022-06-28T14:10:00.000Z",
+        "RaceStartingTimeStr": "02:10 PM"
+    },
+    {
+        "VenueMnemonic": "HAP",
+        "Location": "HKG",
+        "MeetingName": "HAPPY VALLEY",
+        "RaceNo": 7,
+        "RaceType": "R",
+        "Distance": 1650,
+        "RaceStartingTime": "2022-06-28T14:15:00.000Z",
+        "RaceStartingTimeStr": "02:15 PM"
+    },
+    {
+        "VenueMnemonic": "HPR",
+        "Location": "GBR",
+        "MeetingName": "HAMILTON PARK",
+        "RaceNo": 5,
+        "RaceType": "R",
+        "Distance": 2415,
+        "RaceStartingTime": "2022-06-28T14:15:00.000Z",
+        "RaceStartingTimeStr": "02:15 PM"
+    },
+    {
+        "VenueMnemonic": "TLE",
+        "Location": "FRA",
+        "MeetingName": "TOULOUSE",
+        "RaceNo": 1,
+        "RaceType": "R",
+        "Distance": 1200,
+        "RaceStartingTime": "2022-06-28T14:27:00.000Z",
+        "RaceStartingTimeStr": "02:27 PM"
+    },
+    {
+        "VenueMnemonic": "VAA",
+        "Location": "ZAF",
+        "MeetingName": "VAAL",
+        "RaceNo": 8,
+        "RaceType": "R",
+        "Distance": 1200,
+        "RaceStartingTime": "2022-06-28T14:30:00.000Z",
+        "RaceStartingTimeStr": "02:30 PM"
+    },
+    {
+        "VenueMnemonic": "BRI",
+        "Location": "GBR",
+        "MeetingName": "BRIGHTON",
+        "RaceNo": 5,
+        "RaceType": "R",
+        "Distance": 1410,
+        "RaceStartingTime": "2022-06-28T14:35:00.000Z",
+        "RaceStartingTimeStr": "02:35 PM"
+    },
+    {
+        "VenueMnemonic": "HAP",
+        "Location": "HKG",
+        "MeetingName": "HAPPY VALLEY",
+        "RaceNo": 8,
+        "RaceType": "R",
+        "Distance": 1000,
+        "RaceStartingTime": "2022-06-28T14:50:00.000Z",
+        "RaceStartingTimeStr": "02:50 PM"
+    },
+    {
+        "VenueMnemonic": "HPR",
+        "Location": "GBR",
+        "MeetingName": "HAMILTON PARK",
+        "RaceNo": 6,
+        "RaceType": "R",
+        "Distance": 1206,
+        "RaceStartingTime": "2022-06-28T14:50:00.000Z",
+        "RaceStartingTimeStr": "02:50 PM"
+    },
+    {
+        "VenueMnemonic": "TLE",
+        "Location": "FRA",
+        "MeetingName": "TOULOUSE",
+        "RaceNo": 2,
+        "RaceType": "R",
+        "Distance": 2100,
+        "RaceStartingTime": "2022-06-28T15:02:00.000Z",
+        "RaceStartingTimeStr": "03:02 PM"
+    },
+    {
+        "VenueMnemonic": "BRI",
+        "Location": "GBR",
+        "MeetingName": "BRIGHTON",
+        "RaceNo": 6,
+        "RaceType": "R",
+        "Distance": 1410,
+        "RaceStartingTime": "2022-06-28T15:10:00.000Z",
+        "RaceStartingTimeStr": "03:10 PM"
+    },
+    {
+        "VenueMnemonic": "HPR",
+        "Location": "GBR",
+        "MeetingName": "HAMILTON PARK",
+        "RaceNo": 7,
+        "RaceType": "R",
+        "Distance": 1007,
+        "RaceStartingTime": "2022-06-28T15:25:00.000Z",
+        "RaceStartingTimeStr": "03:25 PM"
+    },
+    {
+        "VenueMnemonic": "TLE",
+        "Location": "FRA",
+        "MeetingName": "TOULOUSE",
+        "RaceNo": 3,
+        "RaceType": "R",
+        "Distance": 2400,
+        "RaceStartingTime": "2022-06-28T15:37:00.000Z",
+        "RaceStartingTimeStr": "03:37 PM"
+    },
+    {
+        "VenueMnemonic": "BRI",
+        "Location": "GBR",
+        "MeetingName": "BRIGHTON",
+        "RaceNo": 7,
+        "RaceType": "R",
+        "Distance": 1410,
+        "RaceStartingTime": "2022-06-28T15:45:00.000Z",
+        "RaceStartingTimeStr": "03:45 PM"
+    },
+    {
+        "VenueMnemonic": "CPW",
+        "Location": "GBR",
+        "MeetingName": "CHEPSTOW",
+        "RaceNo": 1,
+        "RaceType": "R",
+        "Distance": 1416,
+        "RaceStartingTime": "2022-06-28T15:55:00.000Z",
+        "RaceStartingTimeStr": "03:55 PM"
+    },
+    {
+        "VenueMnemonic": "ROS",
+        "Location": "IRL",
+        "MeetingName": "ROSCOMMON",
+        "RaceNo": 1,
+        "RaceType": "R",
+        "Distance": 1460,
+        "RaceStartingTime": "2022-06-28T16:10:00.000Z",
+        "RaceStartingTimeStr": "04:10 PM"
+    },
+    {
+        "VenueMnemonic": "TLE",
+        "Location": "FRA",
+        "MeetingName": "TOULOUSE",
+        "RaceNo": 4,
+        "RaceType": "R",
+        "Distance": 2400,
+        "RaceStartingTime": "2022-06-28T16:12:00.000Z",
+        "RaceStartingTimeStr": "04:12 PM"
+    },
+    {
+        "VenueMnemonic": "CPW",
+        "Location": "GBR",
+        "MeetingName": "CHEPSTOW",
+        "RaceNo": 2,
+        "RaceType": "R",
+        "Distance": 1416,
+        "RaceStartingTime": "2022-06-28T16:25:00.000Z",
+        "RaceStartingTimeStr": "04:25 PM"
+    },
+    {
+        "VenueMnemonic": "ROS",
+        "Location": "IRL",
+        "MeetingName": "ROSCOMMON",
+        "RaceNo": 2,
+        "RaceType": "R",
+        "Distance": 1460,
+        "RaceStartingTime": "2022-06-28T16:40:00.000Z",
+        "RaceStartingTimeStr": "04:40 PM"
+    },
+    {
+        "VenueMnemonic": "TLE",
+        "Location": "FRA",
+        "MeetingName": "TOULOUSE",
+        "RaceNo": 5,
+        "RaceType": "R",
+        "Distance": 2000,
+        "RaceStartingTime": "2022-06-28T16:45:00.000Z",
+        "RaceStartingTimeStr": "04:45 PM"
+    },
+    {
+        "VenueMnemonic": "CPW",
+        "Location": "GBR",
+        "MeetingName": "CHEPSTOW",
+        "RaceNo": 3,
+        "RaceType": "R",
+        "Distance": 1216,
+        "RaceStartingTime": "2022-06-28T17:00:00.000Z",
+        "RaceStartingTimeStr": "05:00 PM"
+    },
+    {
+        "VenueMnemonic": "ROS",
+        "Location": "IRL",
+        "MeetingName": "ROSCOMMON",
+        "RaceNo": 3,
+        "RaceType": "R",
+        "Distance": 1460,
+        "RaceStartingTime": "2022-06-28T17:10:00.000Z",
+        "RaceStartingTimeStr": "05:10 PM"
+    },
+    {
+        "VenueMnemonic": "TLE",
+        "Location": "FRA",
+        "MeetingName": "TOULOUSE",
+        "RaceNo": 6,
+        "RaceType": "R",
+        "Distance": 3500,
+        "RaceStartingTime": "2022-06-28T17:15:00.000Z",
+        "RaceStartingTimeStr": "05:15 PM"
+    },
+    {
+        "VenueMnemonic": "SOA",
+        "Location": "GBR",
+        "MeetingName": "STRATFORD AVON",
+        "RaceNo": 1,
+        "RaceType": "R",
+        "Distance": 4525,
+        "RaceStartingTime": "2022-06-28T17:20:00.000Z",
+        "RaceStartingTimeStr": "05:20 PM"
+    },
+    {
+        "VenueMnemonic": "CPW",
+        "Location": "GBR",
+        "MeetingName": "CHEPSTOW",
+        "RaceNo": 4,
+        "RaceType": "R",
+        "Distance": 1216,
+        "RaceStartingTime": "2022-06-28T17:30:00.000Z",
+        "RaceStartingTimeStr": "05:30 PM"
+    },
+    {
+        "VenueMnemonic": "ROS",
+        "Location": "IRL",
+        "MeetingName": "ROSCOMMON",
+        "RaceNo": 4,
+        "RaceType": "R",
+        "Distance": 2044,
+        "RaceStartingTime": "2022-06-28T17:40:00.000Z",
+        "RaceStartingTimeStr": "05:40 PM"
+    },
+    {
+        "VenueMnemonic": "TLE",
+        "Location": "FRA",
+        "MeetingName": "TOULOUSE",
+        "RaceNo": 7,
+        "RaceType": "R",
+        "Distance": 3900,
+        "RaceStartingTime": "2022-06-28T17:45:00.000Z",
+        "RaceStartingTimeStr": "05:45 PM"
+    },
+    {
+        "VenueMnemonic": "SOA",
+        "Location": "GBR",
+        "MeetingName": "STRATFORD AVON",
+        "RaceNo": 2,
+        "RaceType": "R",
+        "Distance": 3413,
+        "RaceStartingTime": "2022-06-28T17:50:00.000Z",
+        "RaceStartingTimeStr": "05:50 PM"
+    },
+    {
+        "VenueMnemonic": "CPW",
+        "Location": "GBR",
+        "MeetingName": "CHEPSTOW",
+        "RaceNo": 5,
+        "RaceType": "R",
+        "Distance": 3200,
+        "RaceStartingTime": "2022-06-28T18:00:00.000Z",
+        "RaceStartingTimeStr": "06:00 PM"
+    },
+    {
+        "VenueMnemonic": "ROS",
+        "Location": "IRL",
+        "MeetingName": "ROSCOMMON",
+        "RaceNo": 5,
+        "RaceType": "R",
+        "Distance": 2044,
+        "RaceStartingTime": "2022-06-28T18:10:00.000Z",
+        "RaceStartingTimeStr": "06:10 PM"
+    },
+    {
+        "VenueMnemonic": "TLE",
+        "Location": "FRA",
+        "MeetingName": "TOULOUSE",
+        "RaceNo": 8,
+        "RaceType": "R",
+        "Distance": 3500,
+        "RaceStartingTime": "2022-06-28T18:15:00.000Z",
+        "RaceStartingTimeStr": "06:15 PM"
+    },
+    {
+        "VenueMnemonic": "SOA",
+        "Location": "GBR",
+        "MeetingName": "STRATFORD AVON",
+        "RaceNo": 3,
+        "RaceType": "R",
+        "Distance": 4407,
+        "RaceStartingTime": "2022-06-28T18:20:00.000Z",
+        "RaceStartingTimeStr": "06:20 PM"
+    },
+    {
+        "VenueMnemonic": "CPW",
+        "Location": "GBR",
+        "MeetingName": "CHEPSTOW",
+        "RaceNo": 6,
+        "RaceType": "R",
+        "Distance": 2400,
+        "RaceStartingTime": "2022-06-28T18:30:00.000Z",
+        "RaceStartingTimeStr": "06:30 PM"
+    }
+]
